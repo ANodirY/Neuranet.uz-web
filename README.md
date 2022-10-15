@@ -3,4 +3,4 @@ This project is my first web project that i have built for a customer, well not 
 
 this website is currently live on the internet in Uzbek language though.
 
->> Domain name : https://neuranet.uz
+<a href="https://neuranet.uz">Live now</a>
